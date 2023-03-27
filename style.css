@@ -1,0 +1,13 @@
+h1{
+    color: darkgreen;
+    front-size: 50px; ;
+}
+h2{
+    color: deepskyblue;
+    front-size: 80px;
+}
+a{
+    color: gold;
+    front-size: 40px;
+    background-color: hotpink;
+}
